@@ -1,0 +1,2 @@
+# wedoo
+Simple MasterMind
